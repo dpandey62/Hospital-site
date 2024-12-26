@@ -20,6 +20,7 @@ Contact Page: A form for inquiries or appointments.
 
 
 # Technologies Used
+
 HTML5: For structuring the web pages.
 
 CSS3: For styling and layout.
